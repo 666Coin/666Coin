@@ -1,0 +1,9 @@
+Building 666Coin
+
+See doc/readme-qt.rst for instructions on building 666Coin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of 666Coin.
+
+See doc/build-*.txt for instructions on building 666Coind,
+the intended-for-services, no-graphical-interface, reference
+implementation of 666Coin.
